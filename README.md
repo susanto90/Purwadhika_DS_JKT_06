@@ -1,4 +1,3 @@
-# Purwadhika_DS_JKT_06
 Assigments (individual and group) during my data science &amp; machine learning course in Purwadhika Startup and Coding School:
 1. SF_Street_Tree<br>
    Data exploration and visualization for street trees data on San Fransisco.
